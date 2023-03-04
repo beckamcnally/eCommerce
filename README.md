@@ -21,7 +21,7 @@
 This application is used for tracking products in your store. You can keep a nice organization by grouping products into categories. You can add, remove or update products and categories for perfect customization.
 
 
-![click here to see a walk through of how to use the application](https://watch.screencastify.com/v/rsBXsPIwhMtwoFwlECJt)
+[click here to see a walk through of how to use the application](https://watch.screencastify.com/v/rsBXsPIwhMtwoFwlECJt)
 
 
 ## Table of Contents 
