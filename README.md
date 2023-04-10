@@ -53,7 +53,7 @@ This application is used for tracking products in your store. You can keep a nic
 
 ## Credits
 
-
+This project was built using starter code provided by UC Berkeley Coding Bootcamp Extension. The original starter code can be found at [https://github.com/coding-boot-camp/fantastic-umbrella](https://github.com/coding-boot-camp/fantastic-umbrella).
 
 ## License
 
